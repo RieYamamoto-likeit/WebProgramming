@@ -1,0 +1,14 @@
+@charset "UTF-8";
+.hello{
+	text-align:center;
+}
+.col-1 {
+    display: inline-block;
+    width: 150px;
+    /* border: solid 1px; */
+}
+.col-2 {
+    display: inline-block;
+    width: 200px;
+    /* border: solid 1px; */
+}
